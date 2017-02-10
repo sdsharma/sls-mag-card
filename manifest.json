@@ -8,7 +8,7 @@
   "content_scripts": [
     {
       "matches": ["https://slscan.ucsd.edu/*"],
-      "js": ["window.js"]
+      "js": ["cardreader.js"]
     }
   ]
 }
